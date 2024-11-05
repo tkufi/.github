@@ -1,5 +1,5 @@
-* [Turku Legislation](https://github.com/Turku-FI-Roblox/Turku-Legislation)
-* [Turku Marketing](https://github.com/Turku-FI-Roblox/Turku-Marketing)
+* [Turku Legislation](https://github.com/tkufi/Turku-Legislation)
+* [Turku Marketing](https://github.com/tkufi/Turku-Marketing)
 
 ---
 
