@@ -1,5 +1,6 @@
 * [Turku Legislation](https://github.com/tkufi/Turku-Legislation)
 * [Turku Marketing](https://github.com/tkufi/Turku-Marketing)
+* [tkUitlities](https://github.com/tkufi/tkUtilities)
 
 ---
 
